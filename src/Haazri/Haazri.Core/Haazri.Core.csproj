@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Attendance\" />
+    <Folder Include="Models\Leaves\" />
+    <Folder Include="Models\Accounts\" />
+    <Folder Include="Models\Team\" />
+    <Folder Include="Services\Accounts\" />
+    <Folder Include="Services\Attendance\" />
+    <Folder Include="Services\Leaves\" />
+    <Folder Include="Services\Team\" />
+  </ItemGroup>
+
+</Project>

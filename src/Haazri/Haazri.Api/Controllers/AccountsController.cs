@@ -8,7 +8,7 @@ namespace Haazri.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class LoginController : ControllerBase
+    public class AccountsController : ControllerBase
     {        
         [HttpPost("/signup")]
         public ActionResult<string> Signup(string id, string password)

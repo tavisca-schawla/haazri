@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Haazri.Api\Haazri.Api.csproj" />
-    <ProjectReference Include="..\Haazri.Common\Haazri.Common.csproj" />
   </ItemGroup>
 
 </Project>

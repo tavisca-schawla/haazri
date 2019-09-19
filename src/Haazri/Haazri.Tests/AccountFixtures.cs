@@ -3,7 +3,7 @@ using Xunit;
 
 namespace Haazri.Tests
 {
-    public class LoginFixtures
+    public class AccountFixtures
     {
         [Fact]
         public void Test1()

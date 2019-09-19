@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haazri.Api", "Haazri.Api\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haazri.Tests", "Haazri.Tests\Haazri.Tests.csproj", "{666A5C6B-0AA1-4672-9B4A-D84893844C2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haazri.Common", "Haazri.Common\Haazri.Common.csproj", "{24203C57-D253-445E-885E-6C724769447D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haazri.Core", "Haazri.Core\Haazri.Core.csproj", "{B057841E-C61D-429A-9E87-6C72CB35D74D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{666A5C6B-0AA1-4672-9B4A-D84893844C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{666A5C6B-0AA1-4672-9B4A-D84893844C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{666A5C6B-0AA1-4672-9B4A-D84893844C2A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24203C57-D253-445E-885E-6C724769447D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24203C57-D253-445E-885E-6C724769447D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24203C57-D253-445E-885E-6C724769447D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24203C57-D253-445E-885E-6C724769447D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B057841E-C61D-429A-9E87-6C72CB35D74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B057841E-C61D-429A-9E87-6C72CB35D74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B057841E-C61D-429A-9E87-6C72CB35D74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B057841E-C61D-429A-9E87-6C72CB35D74D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
